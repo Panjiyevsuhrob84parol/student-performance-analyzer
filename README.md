@@ -29,7 +29,7 @@ Kerakli kutibxonalar
 pip install -r requirements.txt
 streamlit run app.py
 ```
-🔹 CSV fayl formati
+## 🔹 CSV fayl formati
 
 Fayl quyidagi ustunlardan iborat bo‘lishi kerak:
 
@@ -39,8 +39,11 @@ name,score
 Masalan:
 
 Ali,95
+
 Vali,67
+
 Hasan,40
+
 
 
 
