@@ -1,5 +1,3 @@
-﻿# student-performance-analyzer
-
 # Student Performance Analyzer
 
 Bu loyiha — **Talabalar baholarini analiz qiluvchi Streamlit web ilova**.  
@@ -27,3 +25,4 @@ U foydalanuvchiga CSV fayl yuklash, talabalarning ballarini ko‘rsatish va nati
 1. Repository-ni klonlash:
 ```bash
 git clone https://github.com/Panjiyevsuhrob84parol/student-performance-analyzer.git
+
